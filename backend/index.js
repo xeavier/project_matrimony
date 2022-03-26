@@ -20,7 +20,7 @@ import customers from './routes/stripe/customers.js';
 
 const mongodbUrl = config.MONGODB_URL;
 mongoose
-  .connect('mongodb+srv://banuchandar:Banuchandar007$@matrimony.kflvi.mongodb.net/matrimonry?retryWrites=true&w=majority', {
+  .connect('', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
