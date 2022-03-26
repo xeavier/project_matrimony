@@ -18,9 +18,9 @@ export default {
   //secretAccessKey: process.env.secretAccessKey || 'secretAccessKey',
   secret: 'YOUR_SECRET',
   stripe: {
-    secretKey: 'sk_test_51Jr1ABAkZRSPcjZFcZVEQxwrgfk7r3mrP3d976217yEb4oq3yNDHY1hjAUX139UyNKKZr2qXGij9gqZJnqPAJZoD006SQTAboN',
-    publishableKey: 'pk_test_51IA9H9CBuppVbAgLQYGTO4bZvU5UYa5K7vGZY9UfvcYcxoDKP9xvCruGbE5dXZYyTmaopmws3ryYkyDjYsOWGvE700lQi3xb67',
-    clientId: 'ca_ImORwqmjbtosbCA3OExOVGpFEfbVxxWL',
+    secretKey: 'f',
+    publishableKey: 'f',
+    clientId: 'f',
     authorizeUri: 'https://connect.stripe.com/express/oauth/authorize',
     tokenUri: 'https://connect.stripe.com/oauth/token'
   }
